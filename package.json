@@ -36,6 +36,7 @@
     "yargs": "^8.0.2"
   },
   "dependencies": {
+    "bulma": "^0.7.1",
     "fontawesome": "^4.7.2"
   }
 }
