@@ -36,7 +36,17 @@
     "yargs": "^8.0.2"
   },
   "dependencies": {
+    "@cgross/angular-notify": "^2.5.1",
+    "@uirouter/angularjs": "^1.0.20",
+    "angular": "^1.7.3",
+    "angular-cookies": "^1.7.3",
+    "angular-file-upload": "^2.5.0",
+    "angular-i18n": "^1.7.3",
+    "angular-sanitize": "^1.7.3",
+    "angular-translate": "^2.18.1",
+    "angular-translate-storage-cookie": "^2.18.1",
     "bulma": "^0.7.1",
-    "fontawesome": "^4.7.2"
+    "fontawesome": "^4.7.2",
+    "moment": "^2.22.2"
   }
 }
