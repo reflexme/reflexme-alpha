@@ -4,7 +4,7 @@ module.exports = function($stateProvider,$urlRouterProvider,$httpProvider,$trans
   'ngInject';
 
   // Route to home if path provided unknown
-  $urlRouterProvider.otherwise('/');
+  $urlRouterProvider.otherwise('/home');
 
   // Add some headers to all http calls
   $httpProvider.defaults.headers.post['Accept'] = 'application/json, text/javascript';
