@@ -2,7 +2,8 @@
 
 require('angular').module('pages',[
   'home',
-  'signup'
+  'signup',
+  'signin'
 ]);
 
 var pages = require('angular').module('pages');
