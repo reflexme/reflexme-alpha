@@ -6,3 +6,4 @@ require('./pages.module');
 require('./home');
 require('./signup');
 require('./signin');
+require('./welcome');
